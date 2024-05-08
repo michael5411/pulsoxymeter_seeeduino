@@ -1,5 +1,5 @@
 #include <Wire.h>
-#include "MAX30100_PulseOximeter.h"
+#include "MAX30100_PulseOximeter.h" // basierend auf oxullo Arduino-MAX30100
 #include <TM1637.h>  // Grove 4-Digit Display
 
 #define REPORTING_PERIOD_MS     1000 
