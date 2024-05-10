@@ -1,2 +1,3 @@
 # pulsoxymeter_seeeduino
-Arduino-Code für dieses Projekt
+- Arduino-Code für dieses Projekt
+- Liste der zulässigen LED-Ströme
